@@ -4,9 +4,9 @@ This project examined how deep learning models classified benign and cancerous c
 
 ## Project workflow
 
-1. **[Data preparation and EDA](notebooks/01-colon-histopathology-eda.ipynb)** — I examined duplicate and visually similar images before creating group-aware training, validation, and test partitions. After removing 475 exact duplicate files, 9,525 images remained.
-2. **[Model training and evaluation](notebooks/02-colon-histopathology-training.ipynb)** — I trained and compared a baseline CNN, EfficientNetB3, and ConvNeXt-Tiny on the prepared dataset.
-3. **[Explainable AI](notebooks/03-colon-histopathology-xai.ipynb)** — I generated Grad-CAM++ explanations and examined changes in prediction confidence using image-masking and faithfulness evaluations.
+1. **[Data preparation and EDA](notebooks/01-colon-histopathology-eda-portfolio.ipynb)** — I examined duplicate and visually similar images before creating group-aware training, validation, and test partitions. After removing 475 exact duplicate files, 9,525 images remained.
+2. **[Model training and evaluation](notebooks/02-colon-histopathology-training-portfolio.ipynb)** — I trained and compared a baseline CNN, EfficientNetB3, and ConvNeXt-Tiny on the prepared dataset.
+3. **[Explainable AI](notebooks/03-colon-histopathology-xai-portfolio.ipynb)** — I generated Grad-CAM++ explanations and examined changes in prediction confidence using image-masking and faithfulness evaluations.
 
 ## Results
 
