@@ -27,3 +27,13 @@ The `data/` folder contains the training, validation, and test CSVs used in the 
 The baseline CNN was adapted from an existing implementation associated with Li (2025):
 
 Li, J. (2025). *CNN-based colon cancer detection – Python code*. https://doi.org/10.7910/DVN/B7OXBS
+
+## Kaggle Notebooks
+
+The project was developed using Kaggle. The original notebooks, including the code and saved results, are available below.
+
+- [01 — Data Preparation and EDA](https://www.kaggle.com/code/educatedfish808/01-colon-histopathology-eda)
+- [02 — Model Training and Evaluation](https://www.kaggle.com/code/educatedfish808/02-colon-histopathology-training)
+- [03 — Explainable AI](https://www.kaggle.com/code/educatedfish808/03-colon-histopathology-xai)
+
+The trained models and saved outputs are also available in the [colon_project_results dataset](https://www.kaggle.com/datasets/educatedfish808/colon-project-results).
